@@ -1,4 +1,3 @@
-
 # Power BI Assignment 1-Data Transformation PowerBI
 
 This assignment is about data transfoprmation of a 'Global Superstore' using Power Query and loaded into Power BI
